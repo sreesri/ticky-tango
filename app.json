@@ -23,6 +23,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "858d6b6e-8ed1-410d-ab72-8c23f996292a"
+      }
+    },
+    "owner": "dev.shriram.ms"
   }
 }
